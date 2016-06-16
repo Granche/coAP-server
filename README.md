@@ -9,3 +9,5 @@ Dependencies so far:
 
 coap.
 
+For full documentation please visit: https://github.com/mcollina/node-coap
+
